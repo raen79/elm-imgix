@@ -3,7 +3,7 @@
     "name": "raen79/elm-imgix",
     "summary": "A wrapper around ImgIX image API for Elm",
     "license": "BSD-3-Clause",
-    "version": "1.6.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "ImgIX",
         "ImgIX.Adjustment",
