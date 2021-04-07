@@ -1,5 +1,7 @@
 # elm-imgix
 
+*ATTENTION: This is not the offical repository for this package. This is a convenience fork meant to be used until the bellroy package is updated.*
+
 A wrapper around ImgIX image API for Elm
 
 ![imgix logo](https://assets.imgix.net/presskit/imgix-presskit.pdf?page=3&fm=png&w=200)
